@@ -7,7 +7,7 @@ Este é um programa em C# que calcula as raízes de uma equação quadrática co
 1. Clone o repositório para o seu ambiente local:
 
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/daniirocca/FormulaDeBhaskara.git)](https://github.com/daniirocca/FormulaDeBhaskara.git
+   git clone https://github.com/seu-usuario/seu-repositorio.git
    ```
 
 2. Navegue até o diretório do projeto:
